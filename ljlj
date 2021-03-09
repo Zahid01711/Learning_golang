@@ -1,0 +1,11 @@
+[1mdiff --git a/hello_world/hello.go b/hello_world/hello.go[m
+[1mindex 44cdfd4..865ef2e 100644[m
+[1m--- a/hello_world/hello.go[m
+[1m+++ b/hello_world/hello.go[m
+[36m@@ -4,5 +4,5 @@[m [mimport "fmt"[m
+ [m
+ func main() {[m
+ [m
+[31m-	fmt.Println("hello im golang")[m
+[32m+[m	[32mfmt.Println("hello im golang_how_are_you ?")[m
+ }[m
